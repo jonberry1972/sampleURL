@@ -14,6 +14,11 @@
       "duration": 5,
       "tabReloadIntervalSeconds": 10
     },
+	      {
+      "url": "https://www.skysports.com/watch",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    },
     {
       "url": "https://www.bbc.co.uk/weather",
       "duration": 5,
