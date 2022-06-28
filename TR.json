@@ -16,8 +16,8 @@
       "tabReloadIntervalSeconds": 10
     },
 	  {
-      "url": "https://www.bbc.co.uk/sport",
-      "duration": 15,
+      "url": "https://www.bbc.co.uk/news",
+      "duration": 5,
       "tabReloadIntervalSeconds": 10
     },
 	      {
@@ -25,8 +25,13 @@
       "duration": 5,
       "tabReloadIntervalSeconds": 10
     },
+	  	      {
+      "url": "https://www.astutetechnical.co.uk/cm/our-team",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    },
     {
-      "url": "https://www.bbc.co.uk/weather",
+      "url": "https://www.astutetechnical.co.uk/",
       "duration": 5,
       "tabReloadIntervalSeconds": 10    }	   
   ]
