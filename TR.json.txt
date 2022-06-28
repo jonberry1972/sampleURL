@@ -1,0 +1,25 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+      {
+      "url": "https://www.bbc.co.uk/sport",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://www.bbc.co.uk/news",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10
+    },
+    {
+      "url": "https://www.bbc.co.uk/weather",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10    }
+
+
+	   
+  ]
+}
