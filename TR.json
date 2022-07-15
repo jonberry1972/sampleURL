@@ -5,6 +5,11 @@
   "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
+	        {
+      "url": "file:///H:/zzzz_Laptop%20Swap/Bw1.jpg",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 10
+    },
       {
       "url": "https://www.bbc.co.uk/sport",
       "duration": 5,
