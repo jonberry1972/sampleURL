@@ -4,6 +4,11 @@
   "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
+	        {
+      "url": "file:///H:/zzzz_Laptop%20Swap/Bw1.jpg",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 65
+    },
       {
       "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/9f480a95-7fd3-4062-81b7-a528ad4434a7/ReportSection?chromeless=true",
       "duration": 60,
