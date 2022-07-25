@@ -64,7 +64,19 @@
       "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/850320af-783b-4c8d-8b71-8fa6441eaaa0/ReportSection269ed97ece1b2d07cd06?chromeless=true",
       "duration": 60,
       "tabReloadIntervalSeconds": 65
+    },
+	  {
+      "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/850320af-783b-4c8d-8b71-8fa6441eaaa0/ReportSection859ae6405498ea61f5d3?chromeless=true",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 65
+    },
+	  {
+      "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/850320af-783b-4c8d-8b71-8fa6441eaaa0/ReportSection3cee6a7bd5f23486c4cc?chromeless=true",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 65
     }
+
+
 
 	   
   ]
