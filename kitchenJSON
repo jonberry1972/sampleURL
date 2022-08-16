@@ -1,0 +1,14 @@
+
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "websites": [
+
+    {
+      "url": "https://www.astutetechnical.co.uk/",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 10    }	   
+  ]
+}
