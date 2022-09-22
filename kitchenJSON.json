@@ -7,23 +7,23 @@
   "websites": [
    
 {
-      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/KS_0 (1).jpg",
-      "duration": 15,
+      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/NewsArticle1.pdf",
+      "duration": 120,
      "tabReloadIntervalSeconds": 10
     },
 {
-      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/KS_0 (2).jpg",
-      "duration": 15,
+      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/NewsArticle2.pdf",
+      "duration": 120,
      "tabReloadIntervalSeconds": 10
     },
 {
-      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/KS_0 (3).jpg",
-      "duration": 15,
+      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/NewsArticle3.pdf",
+      "duration": 120,
      "tabReloadIntervalSeconds": 10
     },
 {
-      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/KS_0 (4).jpg",
-      "duration": 15,
+      "url": "file:///B:/Kitchen Screen (Do Not Use)/USE/NewsArticle4.pdf",
+      "duration": 120,
      "tabReloadIntervalSeconds": 10
     },
 {
