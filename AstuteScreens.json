@@ -16,6 +16,12 @@
       "duration": 30,
       "tabReloadIntervalSeconds": 65
     }, 	
+
+	  	  	  	        {
+      "url": "https://www.justgiving.com/team/astute?utm_medium=proxy_team&utm_content=team%2Fastute&utm_source=copyLink&utm_campaign=pfp-share?chromeless=true",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 65
+    }, 	
 	  	  	  	        {
       "url": "https://app.powerbi.com/groups/416afa89-b12a-4f48-bd41-20c7a7e67818/reports/cc605e15-ae53-453b-9c9a-ece754771ee0?chromeless=true",
       "duration": 30,
