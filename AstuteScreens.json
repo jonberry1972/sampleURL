@@ -10,7 +10,11 @@
       "duration": 60,
       "tabReloadIntervalSeconds": 65
     }, 
-
+{
+      "url": "file:///H:/zzzScreens/Image1.jpg",
+      "duration": 25,
+     "tabReloadIntervalSeconds": 10
+    },
 	  
 	  	  	        {
       "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/f51c994a-82c0-4506-a73a-8f892cdde2bf/ReportSectiondbbdd66d5ac784b70276?chromeless=true",
