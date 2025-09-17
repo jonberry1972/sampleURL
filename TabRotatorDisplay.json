@@ -1,0 +1,20 @@
+{
+  "isFullscreen": true,
+  "pages": [
+    {
+      "delaySeconds": 5,
+      "reloadIntervalSeconds": 700,
+      "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/f51c994a-82c0-4506-a73a-8f892cdde2bf/ReportSection?chromeless=true"
+    },
+    {
+      "delaySeconds": 5,
+      "reloadIntervalSeconds": 700,
+      "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/fa7632b6-8584-4a43-ace4-c8ed6b50dc96/ee799d851fd403118a3b?chromeless=true"
+    },
+    {
+      "delaySeconds": 5,
+      "reloadIntervalSeconds": 700,
+      "url": "https://app.powerbi.com/groups/5f978f52-7974-4754-8a83-8cba667165ba/reports/f51c994a-82c0-4506-a73a-8f892cdde2bf/ReportSectiondbbdd66d5ac784b70276?chromeless=true"
+    }
+  ]
+}
